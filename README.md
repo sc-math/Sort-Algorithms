@@ -1,13 +1,11 @@
 
 # Sort Algorithms
 
-Neste repositório há alguns Algoritmos de Ordenação, todos eles foram implementados utilizando Dart.
-
 -----
 
 ## Algoritmos
 
-- [Bubble Sort](./README_2.md)
+- [Bubble Sort](./Bubble Sort/README.md)
 - Heap Sort
 - Insertion Sort
 - Merge Sort
