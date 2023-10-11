@@ -1,6 +1,8 @@
 
 # Sort Algorithms
 
+Neste repositório há alguns Algoritmos de Ordenação, todos eles foram implementados utilizando Dart.
+
 ## Algoritmos
 
 - [Bubble Sort](./Bubble%20Sort/README_Bubble.md)
