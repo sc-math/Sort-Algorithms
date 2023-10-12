@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ec378d-b897-4225-99ee-3265e258d54f" name="Changes" comment="" />
+    <list default="true" id="93ec378d-b897-4225-99ee-3265e258d54f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/quick_sort.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +18,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2WeIC3Mf7uP9ThdjeZulHEVxoSW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +39,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -50,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697086495936</updated>
       <workItem from="1697086520720" duration="779000" />
+      <workItem from="1697101005297" duration="431000" />
     </task>
     <servers />
   </component>
