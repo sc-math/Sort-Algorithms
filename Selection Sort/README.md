@@ -9,7 +9,7 @@ Esse algoritmo de Ordenação utiliza a estratégia de procurar o menor elemento
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n^2)$
 - **Caso Médio:** a complexidade de tempo é $Θ(n^2)$
-- **Melhor Caso:** a complexidade de tempo é $O(n^2)$
+- **Pior Caso:** a complexidade de tempo é $O(n^2)$
 
 ### 💽 Complexidade Espacial
 
