@@ -4,7 +4,7 @@ Esse algoritmo de Ordenação utiliza a estratégia de Dividir e Conquistar, o v
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Merge%20Sort/gif/Merge-Sort-example.gif)
 
-## Análise de Complexidade do Merge Sort
+## Análise de Complexidade do Merge Sort 
 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n \cdot log\ n)$
