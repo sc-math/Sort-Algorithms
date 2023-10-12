@@ -7,9 +7,9 @@ Esse algoritmo de Ordenação utiliza a estratégia de percorrer o vetor da esqu
 ## Análise de Complexidade do Insertion Sort
 
 ### ⏳ Complexidade Temporal
-- **Melhor Caso:** a complexidade de tempo é $Ω(n.logn)$
-- **Caso Médio:** a complexidade de tempo é $Θ(n.logn)$
-- **Melhor Caso:** a complexidade de tempo é $O(n.logn)$
+- **Melhor Caso:** a complexidade de tempo é $Ω(n \cdot log\ n)$
+- **Caso Médio:** a complexidade de tempo é $Θ(n \cdot log\ n)$
+- **Melhor Caso:** a complexidade de tempo é $O(n \cdot log\ n)$
 
 ### 💽 Complexidade Espacial
 
