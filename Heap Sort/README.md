@@ -1,6 +1,6 @@
 # Heap Sort
 
-Esse algoritmo de Ordenação utiliza uma estratégia parecida com o Selection Sort,  primeiro encontramos o elemento de menor valor e colocamos ele no inicio, esse processo é repetido até que o vetor esteja ordenado. Esse algoritmo utiliza a estrutura de dados chamada Heap Binário. Primeiro iremos converter nosso vetor em um Heap Máximo, retirar a raiz do Heap e adicionar ela no final do nosso vetor Ordenado, chamar o MaxHeapify para ajustar nosso Heap agora com tamanho n-1, repetiremos esse processo até que o Heap esteja vazio.
+Esse algoritmo utiliza a estrutura de dados chamada Heap Binário para a sua execução e a estratégia por trás desse Algoritmo é parecida com o Selection Sort. Primeiro iremos converter nosso vetor em um Heap Máximo, trocar a raiz do Heap (maior valor do Heap) com o valor na última posição (menor valor do Heap), chamar o MaxHeapify para ajustar nosso Heap agora com tamanho $n-1$, repetiremos esse processo até que o Heap esteja vazio, com isso ordenando o vetor a partir dos maiores valores até os menores.  
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Heap%20Sort/gif/Heap-sort-example.gif)
 
