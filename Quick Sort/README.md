@@ -5,7 +5,7 @@ O Quick Sort é um algoritmo de Ordenação que utiliza a estratégia Dividir e 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Quick%20Sort/gif/Quicksort-example.gif)
 
 ## Análise de Complexidade do Quick Sort
-
+ 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n \cdot log\ n)$
 - **Caso Médio:** a complexidade de tempo é $Θ(n \cdot log\ n)$
