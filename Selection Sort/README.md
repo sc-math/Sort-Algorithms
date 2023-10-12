@@ -4,7 +4,7 @@ Esse algoritmo de Ordenação utiliza a estratégia de procurar o menor elemento
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Selection%20Sort/gif/Selection-sort-example.gif)
 
-## Análise de Complexidade do Insertion Sort
+## Análise de Complexidade do Selection Sort
 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n^2)$
