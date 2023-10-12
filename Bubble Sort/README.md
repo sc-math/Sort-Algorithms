@@ -4,7 +4,7 @@ Esse algoritmo de Ordenação utiliza a estratégia de percorrer o vetor da esqu
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Bubble%20Sort/gif/Bubble-sort-example.gif)
 
-## Análise de Complexidade do Insertion Sort
+## Análise de Complexidade do Bubble Sort
 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n)$
