@@ -1,6 +1,6 @@
 # Quick Sort
 
-O Quick Sort é um algoritmo de Ordenação que utiliza a estratégia Dividir e Conquistar, escolhendo um elemento como pivô e divide o vetor em elementos $<$ que o pivô e elementos $>$ que o pivô, colocando o pivô na sua posição correta no vetor ordenado, executar esses mesmos passos para os subvetores menores que o pivô e maiores que o pivô.
+O Quick Sort é um algoritmo de Ordenação que utiliza a estratégia Dividir e Conquistar, o algoritmo escolhe um elemento como pivô, particiona o vetor em `elementos < pivô`, `elementos > pivô` e coloca o pivô na sua posição correta no vetor ordenado, após colocar o pivô na posição correta é realizado os mesmo passos para o subvetores de `elementos < pivô` e `elementos > pivô`.
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Quick%20Sort/gif/Quicksort-example.gif)
 
