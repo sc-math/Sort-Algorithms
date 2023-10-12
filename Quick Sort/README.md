@@ -1,5 +1,9 @@
 # Quick Sort
 
+O Quick Sort é um algoritmo de Ordenação que utiliza a estratégia Dividir e Conquistar, escolhendo um elemento como pivô e divide o vetor em elementos $<$ que o pivô e elementos $>$ que o pivô, colocando o pivô na sua posição correta no vetor ordenado.
+
+![](https://github.com/sc-math/Sort-Algorithms/blob/main/QuickSort/gif/Quick-Sort-example.gif)
+
 ## Análise de Complexidade do Quick Sort
 
 ### ⏳ Complexidade Temporal
