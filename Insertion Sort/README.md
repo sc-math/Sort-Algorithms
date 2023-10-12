@@ -6,11 +6,11 @@ Esse algoritmo de Ordenação utiliza a estratégia de mover todos os valores de
 
 ## Análise de Complexidade do Insertion Sort
 
-### ⏳Complexidade Temporal
-- **Melhor Caso** a complexidade de tempo é O(n²)
+### ⏳ Complexidade Temporal
+- **Melhor Caso** a complexidade de tempo é $O(n²)$
 - **Caso Médio** a complexidade de tempo é O(n²)
 - **Melhor** Caso a complexidade de tempo é O(n)
 
-### 💽Complexidade Espacial
+### 💽 Complexidade Espacial
 
 - A complexidade espacial auxiliar é O(1)
