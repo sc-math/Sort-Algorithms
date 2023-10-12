@@ -7,9 +7,9 @@ Esse algoritmo de Ordenação utiliza a estratégia de mover todos os valores do
 ## Análise de Complexidade do Insertion Sort
 
 ### ⏳ Complexidade Temporal
-- **Melhor Caso:** a complexidade de tempo é $Ω(n²)$
-- **Caso Médio:** a complexidade de tempo é $Θ(n²)$
-- **Melhor Caso:** a complexidade de tempo é $O(n)$
+- **Melhor Caso:** a complexidade de tempo é $Ω(n)$
+- **Caso Médio:** a complexidade de tempo é $Θ(n^2)$
+- **Pior Caso:** a complexidade de tempo é $O(n^2)$
 
 ### 💽 Complexidade Espacial
 
