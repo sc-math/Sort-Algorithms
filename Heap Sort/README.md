@@ -4,7 +4,7 @@ Esse algoritmo utiliza a estrutura de dados chamada Heap Binário para a sua exe
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Heap%20Sort/gif/Heap-sort-example.gif)
 
-## Análise de Complexidade do Insertion Sort
+## Análise de Complexidade do Heap Sort
 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n \cdot log\ n)$
