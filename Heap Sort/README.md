@@ -2,7 +2,7 @@
 
 Esse algoritmo de Ordenação utiliza a estratégia de percorrer o vetor da esquerda para direita, comparando os valores Arr[i\] com Arr[i-1\], caso o valor da esquerda seja menor que o da direita, é realizado a troca deles para que o maior valor sempre fique a direita, ordenando o vetor a partir dos maiores valores até os menores.
 
-![](https://github.com/sc-math/Sort-Algorithms/blob/main/Bubble%20Sort/gif/Bubble-sort-example.gif)
+![](https://github.com/sc-math/Sort-Algorithms/blob/main/Heap%20Sort/gif/Heap-sort-example.gif)
 
 ## Análise de Complexidade do Insertion Sort
 
