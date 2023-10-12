@@ -8,7 +8,7 @@ Esse algoritmo de Ordenação utiliza a estratégia de Dividir e Conquistar, o v
 
 ### ⏳ Complexidade Temporal
 - **Melhor Caso:** a complexidade de tempo é $Ω(n \cdot log\ n)$
-- **Caso Médio:** a complexidade de tempo é $Θ(n \cdot log\ n)$
+- **Caso Médio:** a complexidade de tempo é $Θ(n \cdot log\ n)$ 
 - **Pior Caso:** a complexidade de tempo é $O(n \cdot log\ n)$
 
 ### 💽 Complexidade Espacial
