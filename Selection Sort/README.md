@@ -2,7 +2,7 @@
 
 Esse algoritmo de Ordenação utiliza a estratégia de procurar o menor elemento no vetor Arr[i+1 ... n\] e colocar ele na posição correta Arr[i\] no Vetor Ordenado.
 
-![](https://github.com/sc-math/Sort-Algorithms/blob/main/Selection%20Sort/gif/Selection-sort-exemple.gif)
+![](https://github.com/sc-math/Sort-Algorithms/blob/main/Selection%20Sort/gif/Selection-sort-example.gif)
 
 ## Análise de Complexidade do Insertion Sort
 
