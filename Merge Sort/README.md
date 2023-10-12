@@ -1,6 +1,8 @@
 # Merge Sort
 
+Esse algoritmo de Ordenação utiliza a estratégia de Dividir e Conquistar, o vetor é particionado em subvetores cada vez menores até que só reste 1 elemento em cada subvetor, após isso une os subvetores ordenando-os.
 
+![](https://github.com/sc-math/Sort-Algorithms/blob/main/Merge%20Sort/gif/Merge-Sort-example.gif)
 
 ## Análise de Complexidade do Merge Sort
 
