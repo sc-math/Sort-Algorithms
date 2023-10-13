@@ -1,6 +1,6 @@
 # Selection Sort
 
-Esse algoritmo de Ordenação utiliza a estratégia de procurar o menor elemento no vetor Arr[i+1 ... n\] e colocar ele na posição correta Arr[i\] no Vetor Ordenado.
+O Selection Sort é um Algoritmo de Ordenação que utiliza a estratégia de procurar o menor elemento no vetor Arr[i+1 ... n\] e colocar ele na posição correta Arr[i\] no Vetor Ordenado.
 
 ![](https://github.com/sc-math/Sort-Algorithms/blob/main/Selection%20Sort/selection_sort_example.gif)
 
