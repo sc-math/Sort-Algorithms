@@ -12,3 +12,4 @@ Neste repositório há alguns Algoritmos de Ordenação, todos eles foram implem
 - [Quick Sort](./Quick%20Sort)
 - [Selection Sort](./Selection%20Sort)
 
+ 
