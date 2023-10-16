@@ -11,6 +11,6 @@ Esse algoritmo de Ordenação utiliza a estratégia de mover todos os valores do
 - **Caso Médio:** a complexidade de tempo é $Θ(n^2)$
 - **Pior Caso:** a complexidade de tempo é $O(n^2)$
 
-### 💽 Complexidade Espacial
+### 💽 Complexidade Espacial 
 
 - A complexidade espacial auxiliar é $O(1)$
